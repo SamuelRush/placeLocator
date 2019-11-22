@@ -6,7 +6,7 @@
 
 - An application where collaboration between maps is encouraged! An authenticated user can create maps and share with others, whether they are logged in or not.
 - A logged in user can place flags on other users created maps, can favorite other users maps, and can even add other users maps to their own collection.
-- Each flag on a map contains a title, a description, and an imagine that comes from a URL.
+- Each flag on a map contains a title, a description, and an image that comes from a URL.
 
 ## Photos
 
