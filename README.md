@@ -1,6 +1,6 @@
 # placeLocator
 
-### This project was created by Sushant (github: [Sushant-ABdigital](https://github.com/Sushant-ABdigital/))) and Sam (github: [SamuelRush](https://github.com/SamuelRush/))
+### This project was created by Sushant (github: [Sushant-Borsania](https://github.com/Sushant-Borsania/))) and Sam (github: [SamuelRush](https://github.com/SamuelRush/))
 
 ## What it does
 
